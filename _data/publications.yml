@@ -1,0 +1,99 @@
+- id: evolution
+  status: "submitted"
+  title: "The evolution of enumerative geometry: a narrative from classical problems to enriched invariants"
+  coauthors: "C. Bethea"
+  # journal: "Journal of Interesting Things"
+  year: 2025
+  arXiV_id: "2509.05456"
+  # external_url: "https://doi.org/10.1234/jit.2024.12345"
+  pdf: "/assets/papers/evolution.pdf"
+  # code_url: "https://github.com/username/awesome-result-code"
+  abstract: >
+    Enumerative geometry, the art and science of counting geometric objects satisfying geometric conditions, has seen a resurgence of activity in recent years due to an influx of new techniques that allow for <i>enriched</i> computations. This paper offers a historical survey of enumerative geometry, starting with its classical origins and real counterparts, to new advances in quadratic enrichment. We include a brief survey of the paradigm shift initiated by Gromov-Witten theory, whose impact can be seen in recent results in quadratically enriched enumerative geometry. Finally, we conclude with a brief overview of emerging directions including random and equivariant enumerative geometry. 
+
+- id: cpm2
+  status: "submitted"
+  title: "$C_p$-Mackey functors in Macaulay2"
+  coauthors: "D. Chan, B. Mudrak, B. Spitz, C. Vogeli, C. Wang, M. Zeng, and S. Zotine"
+  # journal: "Conference on More Things"
+  year: 2025
+  arXiV_id: "2509.05456"
+  code_url: "https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html"
+  # external_url: "https://example.com/another-paper"
+  pdf: "/assets/papers/cpm2.pdf"
+  abstract: >
+    We introduce the <code>CpMackeyFunctors</code> package for Macaulay2, which allows for computations with Mackey functors over a cyclic group of prime order.
+
+- id: fourfolds
+  status: "submitted"
+  title: "On algebraic vector bundles of rank 2 over smooth affine fourfolds"
+  coauthors: "M. Opie and T. Syed"
+  year: 2025
+  arXiV_id: ""
+  pdf: ""
+  abstract: >
+    The classification of algebraic vector bundles of rank 2 over smooth affine fourfolds is a notoriously difficult problem. Isomorphism classes of such vector bundles are not uniquely determined by their Chern classes, in contrast to the situation in lower dimensions. Given a smooth affine fourfold over an algebraically closed field of characteristic not equal to $2$ or $3$, we study cohomological criteria for finiteness of the fibers of the Chern class map for rank $2$ bundles. As a consequence, we give a cohomological classification of such bundles in a number of cases. For example, if $d\leq 4$, there are precisely $d^2$ non-isomorphic algebraic vector bundles over the complement of a smooth hypersurface of degree $d$ in $\mathbb{P}^4_{\mathbb C}$.
+
+- id: BSLnc
+  status: "submitted"
+  title: "The Chow-Witt rings of the classifying spaces of quadratically oriented bundles"
+  coauthors: "M. Wendt"
+  year: 2025
+  arXiV_id: ""
+  pdf: ""
+  abstract: >
+    In this paper we compute the Chow--Witt rings of the classifying space ${\rm BSL}_n^c$ of quadratically oriented vector bundles of rank $n$. We also discuss the corresponding quadratically-oriented cobordism spectrum ${\rm MSL}^c$ which is equivalent to $\rm{MSL}$ after inverting $\eta$.
+
+- id: K4
+  status: "submitted"
+  title: "Monodromy in the space of symmetric cubic surfaces with a line"
+  coauthors: "S. Raman"
+  year: 2024
+  arXiV_id: ""
+  pdf: ""
+  abstract: >
+    We explore the enumerative problem of finding lines on cubic surfaces defined by symmetric polynomials. We prove that the moduli space of symmetric cubic surfaces is an arithmetic quotient of the complex hyperbolic line, and determine constraints on the monodromy group of lines on symmetric cubic surfaces arising from Hodge theory and geometry of the associated cover. This interestingly fails to pin down the entire Galois group. Leveraging computations in equivariant line geometry and homotopy continuation, we prove that the Galois group is the Klein 4-group. This means that, despite a general cubic surface admitting no formula in radicals for its lines, an $S_4$-symmetric cubic does; we work out these formulas explicitly. This is the first computation in what promises to be an interesting direction of research: studying monodromy in classical enumerative problems restricted by a finite group of symmetries.
+
+- id: bitangents
+  status: "to appear"
+  title: "Bitangents to symmetric quartics"
+  coauthors: "C. Bethea"
+  journal: "J. Algebra"
+  year: 2025
+  arXiV_id: ""
+  code_url: "https://github.com/tbrazel/bitangents_code"
+  pdf: ""
+  abstract: >
+    Recall that a non-singular planar quartic is a canonically embedded non-hyperelliptic curve of genus three. We say such a curve is <i>symmetric</i> if it admits non-trivial automorphisms. The classification of (necessarily finite) groups appearing as automorphism groups of non-singular curves of genus three dates back to the last decade of the 19th century. As these groups act on the quartic via projective linear transformations, they induce symmetries on the 28 bitangents. Given such an automorphism group $G=\mathrm{Aut}(C)$, we prove the $G$-orbits of the bitangents are independent of the choice of $C$, and we compute them for all twelve types of smooth symmetric planar quartic curves.
+
+- id: cazanave
+  status: "published"
+  title: "Concerning monoid structures on naive homotopy classes of endomorphisms of punctured affine space"
+  coauthors: "W. Hornslien"
+  year: 2025
+  arXiV_id: ""
+  pdf: ""
+  journal: "J. Homotopy Relat. Struc."
+  external_url: "https://doi.org/10.1007/s40062-025-00373-w"
+  abstract: >
+    Working over an arbitrary field $k$, Cazanave proved that the set of naive $\mathbb{A}^1$-homotopy classes of endomorphisms of the projective line admits a monoid structure whose group completion is genuine $\mathbb{A}^1$-homotopy classes of endomorphisms of the projective line. In this very short note we show that such a statement is never true for punctured affine space $\mathbb{A}^n\setminus \{0\}$ for $n\ge2$.
+
+- id: wronski
+  status: "published"
+  title: "An enriched degree of the Wronski map"
+  year: 2025
+  journal: "New York J. Math."
+  volume: 31
+  pagerange: "195-222"
+  external_url: "https://nyjm.albany.edu/j/2025/31-9v.pdf"
+  pdf: ""
+  abstract: >
+    Given $mp$ different $p$-planes in general position in $(m+p)$-dimensional space, a classical problem is to ask how many $p$-planes intersect all of them. For example when $m=p=2$, this is precisely the question of "lines meeting four lines in 3-space" after projectivizing. The Brouwer degree of the Wronski map provides an answer to this general question, first computed by Schubert over the complex numbers and Eremenko and Gabrielov over the reals. We provide an enriched degree of the Wronski for all $m$ and $p$ even, valued in the Grothendieck--Witt ring of a field, using machinery from $\mathbb{A}^1$-homotopy theory. We further demonstrate in all parities that the local contribution of an $m$-plane is a determinantal relationship between certain Pl&uuml;cker coordinates of the $p$-planes it intersects.
+
+- id: EEG
+  status: "published"
+  title: "Equivariant enumerative geometry"
+  year: 2025
+  journal: "Adv. Math."
+  volume: 461
+  external_url: "https://doi.org/10.1016/j.aim.2024.110082"

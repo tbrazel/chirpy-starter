@@ -1,0 +1,125 @@
+<table class="pub-table">
+  <colgroup>
+    <col class="col-links">
+    <col class="col-info">
+  </colgroup>
+	<thead>
+		<tr>
+		<th>Links</th>
+	  	<th>Info</th>
+	</tr>
+  	</thead>
+  	<tbody>
+	{% for pub in site.data.publications %}
+	{% assign row_id = pub.id | default: 'pub-' | append: forloop.index %}
+
+
+	
+	<!-- Main row -->
+	<tr id="{{ row_id }}" class="pub-row">
+		
+		<!-- LINKS -->
+	  	<td class="pub-links">
+			<div class="links">
+			{% if pub.abstract %}
+		  <button
+			type="button"
+			class="pub-abstract-toggle"
+			data-target="{{ row_id }}-abstract"
+			>
+			<i class="fa-solid fa-caret-down"></i>
+			</button>
+		{% else %}
+		  <span class="no-abstract">—</span>
+		{% endif %}
+		{% if pub.pdf %}
+		  {% if pub.external_url %} · {% endif %}
+		  <a href="{{ pub.pdf }}" target="_blank" class="pdf-icon">
+		  	<i class="fa-solid fa-file"></i>
+		  </a>
+		{% endif %}
+		{% if pub.code_url %}
+		  {% if pub.external_url or pub.pdf %} · {% endif %}
+		  <a href="{{ pub.code_url }}" target="_blank" rel="noopener" class="code-icon"><i class="fa-solid fa-code"></i></a>
+		{% endif %}
+		</div>
+	  </td>
+
+		<!-- Publication info -->
+		<td class="pub-main">
+			<div class="pub-title">
+		  	{% if pub.external_url %}
+				<a href="{{ pub.external_url }}" target="_blank" rel="noopener">
+			  	{{ pub.title }}</a>,
+		  	{% else %}
+				{{ pub.title }},
+		  	{% endif %}
+
+			<!-- Coauthor info -->
+			{% if pub.coauthors %}
+				<i>with {{ pub.coauthors }}</i>.
+			{% else %}
+				.
+			{% endif %}
+
+		  	<!-- Publication info -->
+			{% if pub.status == "published" %}
+				<b>{{ pub.journal }}</b> {% if pub.year %} ({{ pub.year }}){% endif %}.
+			{% elsif pub.status == "to appear" %}
+				to appear in <b>{{ pub.journal }}</b> {% if pub.year %} ({{ pub.year }}){% endif %}.
+			{% elsif pub.status == "submitted" %}
+				{% if pub.year %} ({{ pub.year }}), {% endif %}submitted.
+			{% elsif pub.status == "preprint" %}
+				preprint, {{ pub.year }}.
+			{% elsif pub.status == "in preparation" %}
+				in preparation.
+			{% else %}
+			{% endif %}
+				
+			
+		  
+		</div>
+	  </td>
+	</tr>
+
+	<!-- Abstract row (only if abstract exists) -->
+	{% if pub.abstract %}
+	<tr id="{{ row_id }}-abstract" class="pub-abstract-row" style="display: none;">
+	  <td colspan="2" class="pub-abstract-cell">
+		{{ pub.abstract }}
+	  </td>
+	</tr>
+	{% endif %}
+
+	{% endfor %}
+  </tbody>
+</table>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var buttons = document.querySelectorAll('.pub-abstract-toggle');
+
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var targetId = this.getAttribute('data-target');
+      var row = document.getElementById(targetId);
+      if (!row) return;
+
+      var isHidden = row.style.display === 'none' || row.style.display === '';
+
+      // Toggle row visibility
+      row.style.display = isHidden ? 'table-row' : 'none';
+
+      // Swap caret icon
+      var icon = this.querySelector('i');
+      if (isHidden) {
+        icon.classList.remove('fa-caret-down');
+        icon.classList.add('fa-caret-up');
+      } else {
+        icon.classList.remove('fa-caret-up');
+        icon.classList.add('fa-caret-down');
+      }
+    });
+  });
+});
+</script>
