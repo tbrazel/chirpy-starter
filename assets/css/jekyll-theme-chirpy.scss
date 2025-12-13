@@ -19,3 +19,12 @@
   --link-color: #93c5fd;
   --link-hover-color: #bfdbfe;
 }
+
+
+// hide search functionality
+
+#search-trigger,
+#search,
+#search-cancel {
+  display: none !important;
+}

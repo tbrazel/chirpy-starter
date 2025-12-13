@@ -32,11 +32,6 @@
 		  	<i class="fa-solid fa-file"></i>
 		  </a>
 		{% endif %}
-		{% if pub.code_url %}
-		  {% if pub.external_url or pub.pdf %}{% endif %}
-		  <a href="{{ pub.code_url }}" target="_blank" rel="noopener" class="code-icon"><i class="fa-solid fa-code"></i></a>
-		{% endif %}
-
 		<!-- arXiV -->
 			{% if pub.arXiV_id %}
   			{% capture arxiv_icon %}
@@ -45,6 +40,12 @@
   {% endcapture %}
   {{ arxiv_icon | markdownify  }}
 {% endif %}
+		{% if pub.code_url %}
+		  {% if pub.external_url or pub.pdf %}{% endif %}
+		  <a href="{{ pub.code_url }}" target="_blank" rel="noopener" class="code-icon"><i class="fa-solid fa-code"></i></a>
+		{% endif %}
+
+		
 		</div>
 	  </td>
 

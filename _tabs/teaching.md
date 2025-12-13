@@ -6,7 +6,7 @@ order: 3
 
 ## Current courses
 
-
+{% include teaching.html %}
 
 ## Previous courses
 

@@ -18,21 +18,9 @@ My research is vaguely at the interface of algebraic geometry and algebraic topo
 {% assign pubs = site.data.publications | where_exp: "pub", "pub.status == 'published' or pub.status == 'to appear'" %}
 {% include publications.html pubs=pubs %}
 
-
-
-
-## Equivariant enumerative geometry
-We study how symmetry manifests in (a) counting solutions to enumerative problems and (b) *solving* for solutions in terms of parameters. This work borders equivariant algebraic topology, Hodge theory and hyperbolic geometry, and numerical algebraic geometry.
-
-- *Equivariant algebraic geometry*, **Adv. Math.**, 2025.
-
-## Quadratic enumerative geometry
-
-## Fun short results
-
-## Homotopy theory
-
-## Number theory
+## Software
+- [`CpMackeyFunctors.m2`](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html), a Macaulay2 package for doing homological algebra computations with $C_p$-Mackey functors. With D. Chan, B. Mudrak, C. Vogeli, C. Wang, M. Zeng, S. Zotine.
+- [`A1BrouwerDegrees.m2`](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/A1BrouwerDegrees/html/index.html), a Macaulay2 package for computing local and global $\mathbb{A}^1$-Brouwer degrees, and manipulating the associated symmetric bilinear forms. With N. Borisov, F. Espino, T. Hagedorn, Z. Han, J. Lopez Garcia, J. Louwsma, G. Ong, and A. Tawfeek.
 
 
 

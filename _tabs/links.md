@@ -1,16 +1,21 @@
 ---
-layout: page
+layout: post
+title: Links
 icon: fas fa-paperclip
 order: 5
 toc: true
+# show_meta: false
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/link_page_style.css' | relative_url }}">
+
 
 Start here: <a href="https://g4m.code4math.org/g4m.html" target="_blank">GitHub for mathematicians</a>
 ## Arxiv
 
 I wrote a bot that sends me readable HTML-formatted emails with my arXiV subscriptions. To fork it and get it running for your own purposes, see the repository here: <a href="https://github.com/tbrazel/arxiv-email" target="_blank">https://github.com/tbrazel/arxiv-email</a>.
 
-<h4>GitHub</h4>
+## GitHub
 To host a LaTeX project on GitHub, I use <a href="https://pbelmans.ncag.info/blog/2023/08/17/github-latex-template/" target="_blank">this setup</a> by Pieter Belmans. This uses workflows to build a pdf on push, and compiles the pdf to an orphaned branch so that the repository contains an updated pdf without it being tracked. With <a href="gitignore.txt" target="_blank">the right .gitignore</a>, the only changes tracked by GitHub are to the .tex files themselves, which makes collaboration and version control really easy. Some other stuff for this workflow:
 
 <ul>
@@ -19,17 +24,17 @@ To host a LaTeX project on GitHub, I use <a href="https://pbelmans.ncag.info/blo
     <li><a href="https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22" target="_blank">Make a Discord webhook on GitHub</a> - for sending GitHub updates in a Discord channel</li>
 </ul>
 
-<h4>LaTeX</h4>
+## LaTeX
 I use a Vim setup with <a href="https://github.com/SirVer/ultisnips" target="_blank">UltiSnips</a>, which uses Python and Regex for macros in writing LaTeX. <!--My snippets files are available here: <a href="https://github.com/tbrazel/vim-latex-snippets" target="_blank">https://github.com/tbrazel/vim-latex-snippets</a>.-->
 
 
-<!-- 				<h4>Macaulay2</h4>
+<!-- 				<h2>Macaulay2</h2>
 The best way to run Macaulay2 is <a href="https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_setting_spup_spthe_sp__Macaulay2_spemacs_spinterface.html" target="_blank">through Emacs</a>. -->
 
-<h4>Website hosting</h4>
+## Website hosting
 This website is hosted on GitHub - if you're not sure how to start a "username.io" website, there's a <a href="https://pages.github.com/" target="_blank">good reference to get started here</a>. If you want to host your academic website on your department's server, for example, but you'd still like version control (and you don't want to use an app like Fetch or Cyberduck every time you want to update your website), I recommend using a third-party service like <a href="https://www.deployhq.com/" target="_blank">DeployHQ</a>, which links a GitHub repository to your SFTP credentials. This way every time you want to update your webpage, just commit to your repository, and DeployHQ will launch it for you.
 
-<h4>Keeping track of math papers</h4>
+## Keeping track of math papers
 I use <a href="https://www.zotero.org/" target="_blank">Zotero</a> to organize math papers. If you make sure the automatic importing gets accurate metadata, this makes it really easy to quickly generate BibTex citations for papers you're working with. 
 <ul>
     <li>See here for a guide on <a href="https://libguides.rhul.ac.uk/referencing/Zoterolatex" target="_blank">using BibTex and Zotero</a>.</li>
@@ -37,11 +42,9 @@ I use <a href="https://www.zotero.org/" target="_blank">Zotero</a> to organize m
     <li><a href="https://mathscinet.ams.org/msnhtml/serials.pdf">List of math journal abbreviations</a></li>
 </ul>
 
+## References
 
-
-<h2>References</h2>
-
-<h4>Listservs</h4>
+## Listservs
 <ul>
     <li>
         <a href="https://lists.illinois.edu/lists/info/algtop-l" target="_blank">Algtop-L</a>, algebraic topology listserv
@@ -53,7 +56,7 @@ I use <a href="https://www.zotero.org/" target="_blank">Zotero</a> to organize m
     
 </ul>
 
-<h4>Algebraic databases</h4>
+## Algebraic databases
 
 <ul>
     <li><a href="https://ringtheory.herokuapp.com/" target="_blank">Database of Ring Theory</a></li>
@@ -71,23 +74,18 @@ I use <a href="https://www.zotero.org/" target="_blank">Zotero</a> to organize m
 
 Even more databases here! <a href="https://mathbases.org/">mathbases.org</a>
 
-<h4>Web apps for typesetting stuff</h4>
-<ul>
-    <li><a href="https://q.uiver.app/">Quiver</a>, for Tikz commutative diagrams</li>
-</ul>
+## Web apps for typesetting stuff
+
+- [Quiver](https://q.uiver.app/) for Tikz commutative diagrams
+- [homotopy.io](https://beta.homotopy.io/) for building cell diagrams
 
 
 
 
 
-<h2>Things I frequently need to copy/paste</h2>
-
-<h4>For LaTeX stuff</h4>
+## Things I frequently need to copy/paste
 
 <a href="gitignore.txt">a .gitignore file for LaTeX projects</a><br>
 
-<a href="fullref.txt">hack to get autoref running correctly</a><br>
-
 <a href="regex.txt">regex for math mode and prose snippets</a><br>
-
-</div>			
+	
