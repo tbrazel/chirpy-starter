@@ -10,9 +10,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: university
+  icon: "fas fa-building-columns"
+  url: "http://www.math.harvard.edu"
+  noblank: false
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: false
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

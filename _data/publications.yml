@@ -4,7 +4,7 @@
   coauthors: "C. Bethea"
   # journal: "Journal of Interesting Things"
   year: 2025
-  arXiV_id: "2509.05456"
+  arXiV_id: "2510.04275"
   # external_url: "https://doi.org/10.1234/jit.2024.12345"
   pdf: "PCMI_Conference_Proceedings"
   # code_url: "https://github.com/username/awesome-result-code"
@@ -29,7 +29,7 @@
   title: "On algebraic vector bundles of rank 2 over smooth affine fourfolds"
   coauthors: "M. Opie and T. Syed"
   year: 2025
-  arXiV_id: ""
+  arXiV_id: "2507.21029"
   pdf: "fourfolds"
   abstract: >
     The classification of algebraic vector bundles of rank 2 over smooth affine fourfolds is a notoriously difficult problem. Isomorphism classes of such vector bundles are not uniquely determined by their Chern classes, in contrast to the situation in lower dimensions. Given a smooth affine fourfold over an algebraically closed field of characteristic not equal to $2$ or $3$, we study cohomological criteria for finiteness of the fibers of the Chern class map for rank $2$ bundles. As a consequence, we give a cohomological classification of such bundles in a number of cases. For example, if $d\leq 4$, there are precisely $d^2$ non-isomorphic algebraic vector bundles over the complement of a smooth hypersurface of degree $d$ in $\mathbb{P}^4_{\mathbb C}$.
@@ -39,7 +39,7 @@
   title: "The Chow-Witt rings of the classifying spaces of quadratically oriented bundles"
   coauthors: "M. Wendt"
   year: 2025
-  arXiV_id: ""
+  arXiV_id: "2501.06302"
   pdf: "BSLnc"
   abstract: >
     In this paper we compute the Chow--Witt rings of the classifying space ${\rm BSL}_n^c$ of quadratically oriented vector bundles of rank $n$. We also discuss the corresponding quadratically-oriented cobordism spectrum ${\rm MSL}^c$ which is equivalent to $\rm{MSL}$ after inverting $\eta$.
@@ -49,7 +49,7 @@
   title: "Monodromy in the space of symmetric cubic surfaces with a line"
   coauthors: "S. Raman"
   year: 2024
-  arXiV_id: ""
+  arXiV_id: "2410.09270"
   pdf: "K4"
   abstract: >
     We explore the enumerative problem of finding lines on cubic surfaces defined by symmetric polynomials. We prove that the moduli space of symmetric cubic surfaces is an arithmetic quotient of the complex hyperbolic line, and determine constraints on the monodromy group of lines on symmetric cubic surfaces arising from Hodge theory and geometry of the associated cover. This interestingly fails to pin down the entire Galois group. Leveraging computations in equivariant line geometry and homotopy continuation, we prove that the Galois group is the Klein 4-group. This means that, despite a general cubic surface admitting no formula in radicals for its lines, an $S_4$-symmetric cubic does; we work out these formulas explicitly. This is the first computation in what promises to be an interesting direction of research: studying monodromy in classical enumerative problems restricted by a finite group of symmetries.
@@ -60,7 +60,7 @@
   coauthors: "C. Bethea"
   journal: "J. Algebra"
   year: 2025
-  arXiV_id: ""
+  arXiV_id: "2410.09242"
   code_url: "https://github.com/tbrazel/bitangents_code"
   pdf: "bitangents"
   abstract: >
@@ -71,7 +71,7 @@
   title: "Concerning monoid structures on naive homotopy classes of endomorphisms of punctured affine space"
   coauthors: "W. Hornslien"
   year: 2025
-  arXiV_id: ""
+  arXiV_id: "2410.02668"
   pdf: "No_Cazanave"
   journal: "J. Homotopy Relat. Struc."
   external_url: "https://doi.org/10.1007/s40062-025-00373-w"
@@ -82,6 +82,7 @@
   status: "published"
   title: "An enriched degree of the Wronski map"
   year: 2025
+  arXiV_id: "2206.01143"
   journal: "New York J. Math."
   volume: 31
   page_range: "195-222"
@@ -93,6 +94,7 @@
 - id: EEG
   status: "published"
   title: "Equivariant enumerative geometry"
+  arXiV_id: "2210.08622"
   year: 2025
   journal: "Adv. Math."
   volume: 461
@@ -117,6 +119,7 @@
   status: "published"
   title: "Residue sums of Dickson polynomials over finite fields"
   coauthors: "J. Harrington, M. Litman and T.H.W. Wong"
+  arXiV_id: "2103.09119"
   journal: "J. Number Theory"
   year: 2024
   volume: 264
@@ -131,6 +134,7 @@
   title: "Lifts, transfers, and degrees of univariate maps"
   coauthors: "S. McKean"
   year: 2023
+  arXiV_id: "2112.04592"
   journal: "Math. Scand."
   volume: 129
   issue: 1 # check on this
@@ -143,6 +147,7 @@
   status: "published"
   title: "Bézoutians and the $\\mathbb{A}^1$-degree"
   coauthors: "S. McKean and S. Pauli"
+  arXiV_id: "2103.16614"
   journal: "Algebra & Number Theory"
   volume: 17
   issue: 11 # check
@@ -156,6 +161,7 @@
   status: "published"
   title: "Homotopy Mackey functors of equivariant algebraic $K$-theory"
   year: 2022
+  arXiV_id: "2102.06724"
   journal: "J. Pure Appl. Algebra"
   volume: 226
   issue: 8
@@ -167,6 +173,7 @@
   status: "published"
   title: "An introduction to $\\mathbb{A}^1$-enumerative geometry"
   year: 2021
+  arXiV_id: "2007.09742"
   journal: "Homotopy Theory and Arithmetic Geometry – Motivic and Diophantine Aspects, Lecture Notes in Math."
   volume: 2291
   external_url: https://doi.org/10.1007/978-3-030-78977-0_2
@@ -176,6 +183,7 @@
 - id: semilin
   status: "published"
   title: "A note on twisted group rings and semilinearization"
+  arXiV_id: "2102.06723"
   year: 2021
   journal: "Comm. Algebra"
   volume: 49
