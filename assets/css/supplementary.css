@@ -1,3 +1,4 @@
+/* page structure */
 @media (min-width: 850px) {
   #main-wrapper {
     margin-left: 0px;
@@ -23,7 +24,12 @@
   }
 }
 
-
 div#main-wrapper aside#panel-wrapper{
   width: 15%
+}
+
+
+/* tables */
+table.data-table img{
+  max-width: 100%!important;
 }

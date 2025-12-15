@@ -13,7 +13,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/147101325811143691215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/147101325811143691215.png"
 
 - id: 137101325811144691215
   promotion_order: 15
@@ -42,7 +42,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/137101325811144691215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/137101325811144691215.png"
 
 - id: 127101335811144691215
   promotion_order: 15
@@ -86,7 +86,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/127101335811144691215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127101335811144691215.png"
 
 - id: 127101334811145691215
   promotion_order: 15
@@ -115,7 +115,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/127101334811145691215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127101334811145691215.png"
 
 - id: 136101325811144791215
   promotion_order: 15
@@ -144,7 +144,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/136101325811144791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136101325811144791215.png"
 
 - id: 126101335811144791215
   promotion_order: 15
@@ -188,7 +188,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126101335811144791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126101335811144791215.png"
 
 - id: 136101324811145791215
   promotion_order: 15
@@ -232,7 +232,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/136101324811145791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136101324811145791215.png"
 
 - id: 126101334811145791215
   promotion_order: 15
@@ -276,7 +276,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126101334811145791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126101334811145791215.png"
 
 - id: 125101336811144791215
   promotion_order: 15
@@ -305,7 +305,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/125101336811144791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125101336811144791215.png"
 
 - id: 134101326811145791215
   promotion_order: 15
@@ -349,7 +349,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134101326811145791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134101326811145791215.png"
 
 - id: 124101336811145791215
   promotion_order: 15
@@ -393,7 +393,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124101336811145791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101336811145791215.png"
 
 - id: 123101346811145791215
   promotion_order: 15
@@ -437,7 +437,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/123101346811145791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101346811145791215.png"
 
 - id: 125101334811146791215
   promotion_order: 15
@@ -481,7 +481,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125101334811146791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125101334811146791215.png"
 
 - id: 134101325811146791215
   promotion_order: 15
@@ -510,7 +510,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/134101325811146791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134101325811146791215.png"
 
 - id: 124101335811146791215
   promotion_order: 15
@@ -554,7 +554,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/124101335811146791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101335811146791215.png"
 
 - id: 123101345811146791215
   promotion_order: 15
@@ -598,7 +598,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123101345811146791215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101345811146791215.png"
 
 - id: 126101335711144891215
   promotion_order: 15
@@ -627,7 +627,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/126101335711144891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126101335711144891215.png"
 
 - id: 126101334711145891215
   promotion_order: 15
@@ -671,7 +671,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126101334711145891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126101334711145891215.png"
 
 - id: 124101336711145891215
   promotion_order: 15
@@ -715,7 +715,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124101336711145891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101336711145891215.png"
 
 - id: 123101346711145891215
   promotion_order: 15
@@ -759,7 +759,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123101346711145891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101346711145891215.png"
 
 - id: 124101335711146891215
   promotion_order: 15
@@ -788,7 +788,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124101335711146891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101335711146891215.png"
 
 - id: 123101345711146891215
   promotion_order: 15
@@ -832,7 +832,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123101345711146891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101345711146891215.png"
 
 - id: 123101345611147891215
   promotion_order: 15
@@ -861,7 +861,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123101345611147891215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101345611147891215.png"
 
 - id: 137913258111446101215
   promotion_order: 15
@@ -890,7 +890,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/137913258111446101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/137913258111446101215.png"
 
 - id: 127913358111446101215
   promotion_order: 15
@@ -934,7 +934,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/127913358111446101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127913358111446101215.png"
 
 - id: 137913248111456101215
   promotion_order: 15
@@ -978,7 +978,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/137913248111456101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/137913248111456101215.png"
 
 - id: 127913348111456101215
   promotion_order: 15
@@ -1022,7 +1022,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/127913348111456101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127913348111456101215.png"
 
 - id: 136913258111447101215
   promotion_order: 15
@@ -1051,7 +1051,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/136913258111447101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136913258111447101215.png"
 
 - id: 126913358111447101215
   promotion_order: 15
@@ -1095,7 +1095,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126913358111447101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126913358111447101215.png"
 
 - id: 136913248111457101215
   promotion_order: 15
@@ -1139,7 +1139,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/136913248111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136913248111457101215.png"
 
 - id: 126913348111457101215
   promotion_order: 15
@@ -1183,7 +1183,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/126913348111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126913348111457101215.png"
 
 - id: 135913268111447101215
   promotion_order: 15
@@ -1227,7 +1227,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/135913268111447101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135913268111447101215.png"
 
 - id: 134913268111457101215
   promotion_order: 15
@@ -1271,7 +1271,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134913268111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134913268111457101215.png"
 
 - id: 124913368111457101215
   promotion_order: 15
@@ -1315,7 +1315,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124913368111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913368111457101215.png"
 
 - id: 123913468111457101215
   promotion_order: 15
@@ -1359,7 +1359,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123913468111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913468111457101215.png"
 
 - id: 135913248111467101215
   promotion_order: 15
@@ -1403,7 +1403,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/135913248111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135913248111467101215.png"
 
 - id: 125913348111467101215
   promotion_order: 15
@@ -1447,7 +1447,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125913348111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125913348111467101215.png"
 
 - id: 134913258111467101215
   promotion_order: 15
@@ -1491,7 +1491,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134913258111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134913258111467101215.png"
 
 - id: 124913358111467101215
   promotion_order: 15
@@ -1535,7 +1535,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124913358111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913358111467101215.png"
 
 - id: 123913458111467101215
   promotion_order: 15
@@ -1579,7 +1579,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123913458111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913458111467101215.png"
 
 - id: 126913357111448101215
   promotion_order: 15
@@ -1608,7 +1608,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126913357111448101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126913357111448101215.png"
 
 - id: 135913267111448101215
   promotion_order: 15
@@ -1637,7 +1637,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/135913267111448101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135913267111448101215.png"
 
 - id: 125913367111448101215
   promotion_order: 15
@@ -1666,7 +1666,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/125913367111448101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125913367111448101215.png"
 
 - id: 134913267111458101215
   promotion_order: 15
@@ -1710,7 +1710,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/134913267111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134913267111458101215.png"
 
 - id: 124913367111458101215
   promotion_order: 15
@@ -1754,7 +1754,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124913367111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913367111458101215.png"
 
 - id: 123913467111458101215
   promotion_order: 15
@@ -1798,7 +1798,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123913467111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913467111458101215.png"
 
 - id: 135913247111468101215
   promotion_order: 15
@@ -1842,7 +1842,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/135913247111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135913247111468101215.png"
 
 - id: 125913347111468101215
   promotion_order: 15
@@ -1886,7 +1886,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125913347111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125913347111468101215.png"
 
 - id: 134913257111468101215
   promotion_order: 15
@@ -1930,7 +1930,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/134913257111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134913257111468101215.png"
 
 - id: 124913357111468101215
   promotion_order: 15
@@ -1974,7 +1974,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124913357111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913357111468101215.png"
 
 - id: 123913457111468101215
   promotion_order: 15
@@ -2018,7 +2018,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123913457111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913457111468101215.png"
 
 - id: 135913246111478101215
   promotion_order: 15
@@ -2062,7 +2062,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/135913246111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135913246111478101215.png"
 
 - id: 125913346111478101215
   promotion_order: 15
@@ -2106,7 +2106,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/125913346111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125913346111478101215.png"
 
 - id: 134913256111478101215
   promotion_order: 15
@@ -2150,7 +2150,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134913256111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134913256111478101215.png"
 
 - id: 124913356111478101215
   promotion_order: 15
@@ -2194,7 +2194,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124913356111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913356111478101215.png"
 
 - id: 123913456111478101215
   promotion_order: 15
@@ -2238,7 +2238,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123913456111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913456111478101215.png"
 
 - id: 127813359111446101215
   promotion_order: 15
@@ -2282,7 +2282,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/127813359111446101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127813359111446101215.png"
 
 - id: 137813249111456101215
   promotion_order: 15
@@ -2311,7 +2311,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/137813249111456101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/137813249111456101215.png"
 
 - id: 127813349111456101215
   promotion_order: 15
@@ -2355,7 +2355,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/127813349111456101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127813349111456101215.png"
 
 - id: 126813359111447101215
   promotion_order: 15
@@ -2399,7 +2399,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126813359111447101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126813359111447101215.png"
 
 - id: 136813249111457101215
   promotion_order: 5
@@ -2418,7 +2418,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/136813249111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136813249111457101215.png"
 
 - id: 126813349111457101215
   promotion_order: 15
@@ -2462,7 +2462,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126813349111457101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126813349111457101215.png"
 
 - id: 125813349111467101215
   promotion_order: 15
@@ -2491,7 +2491,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125813349111467101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125813349111467101215.png"
 
 - id: 126713359111448101215
   promotion_order: 15
@@ -2535,7 +2535,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126713359111448101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126713359111448101215.png"
 
 - id: 126713349111458101215
   promotion_order: 15
@@ -2579,7 +2579,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/126713349111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126713349111458101215.png"
 
 - id: 134713269111458101215
   promotion_order: 15
@@ -2623,7 +2623,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134713269111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134713269111458101215.png"
 
 - id: 124713369111458101215
   promotion_order: 15
@@ -2667,7 +2667,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124713369111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124713369111458101215.png"
 
 - id: 123713469111458101215
   promotion_order: 15
@@ -2711,7 +2711,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123713469111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713469111458101215.png"
 
 - id: 135713249111468101215
   promotion_order: 15
@@ -2740,7 +2740,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/135713249111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135713249111468101215.png"
 
 - id: 125713349111468101215
   promotion_order: 15
@@ -2784,7 +2784,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125713349111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125713349111468101215.png"
 
 - id: 123713459111468101215
   promotion_order: 15
@@ -2828,7 +2828,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123713459111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713459111468101215.png"
 
 - id: 125613379111448101215
   promotion_order: 15
@@ -2857,7 +2857,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/125613379111448101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613379111448101215.png"
 
 - id: 134613279111458101215
   promotion_order: 15
@@ -2886,7 +2886,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134613279111458101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134613279111458101215.png"
 
 - id: 134513279111468101215
   promotion_order: 15
@@ -2930,7 +2930,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134513279111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134513279111468101215.png"
 
 - id: 124513379111468101215
   promotion_order: 15
@@ -2974,7 +2974,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124513379111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513379111468101215.png"
 
 - id: 123513479111468101215
   promotion_order: 15
@@ -3018,7 +3018,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123513479111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513479111468101215.png"
 
 - id: 123413579111468101215
   promotion_order: 15
@@ -3047,7 +3047,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/123413579111468101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413579111468101215.png"
 
 - id: 135613249111478101215
   promotion_order: 15
@@ -3076,7 +3076,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/135613249111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135613249111478101215.png"
 
 - id: 125613349111478101215
   promotion_order: 15
@@ -3120,7 +3120,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125613349111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613349111478101215.png"
 
 - id: 134613259111478101215
   promotion_order: 15
@@ -3164,7 +3164,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134613259111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134613259111478101215.png"
 
 - id: 124613359111478101215
   promotion_order: 15
@@ -3208,7 +3208,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124613359111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124613359111478101215.png"
 
 - id: 123613459111478101215
   promotion_order: 15
@@ -3252,7 +3252,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123613459111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613459111478101215.png"
 
 - id: 134513269111478101215
   promotion_order: 15
@@ -3296,7 +3296,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134513269111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134513269111478101215.png"
 
 - id: 124513369111478101215
   promotion_order: 15
@@ -3340,7 +3340,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124513369111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513369111478101215.png"
 
 - id: 123513469111478101215
   promotion_order: 15
@@ -3384,7 +3384,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/123513469111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513469111478101215.png"
 
 - id: 123413569111478101215
   promotion_order: 15
@@ -3428,7 +3428,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123413569111478101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413569111478101215.png"
 
 - id: 126813357111449101215
   promotion_order: 15
@@ -3472,7 +3472,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126813357111449101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126813357111449101215.png"
 
 - id: 126813347111459101215
   promotion_order: 15
@@ -3516,7 +3516,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/126813347111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126813347111459101215.png"
 
 - id: 125813367111449101215
   promotion_order: 15
@@ -3545,7 +3545,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125813367111449101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125813367111449101215.png"
 
 - id: 134813267111459101215
   promotion_order: 15
@@ -3574,7 +3574,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/134813267111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134813267111459101215.png"
 
 - id: 124813367111459101215
   promotion_order: 15
@@ -3618,7 +3618,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/124813367111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813367111459101215.png"
 
 - id: 123813467111459101215
   promotion_order: 15
@@ -3662,7 +3662,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123813467111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813467111459101215.png"
 
 - id: 125813347111469101215
   promotion_order: 15
@@ -3706,7 +3706,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125813347111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125813347111469101215.png"
 
 - id: 134813257111469101215
   promotion_order: 15
@@ -3750,7 +3750,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134813257111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134813257111469101215.png"
 
 - id: 124813357111469101215
   promotion_order: 15
@@ -3794,7 +3794,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124813357111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813357111469101215.png"
 
 - id: 123813457111469101215
   promotion_order: 15
@@ -3838,7 +3838,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123813457111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813457111469101215.png"
 
 - id: 125813346111479101215
   promotion_order: 15
@@ -3867,7 +3867,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125813346111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125813346111479101215.png"
 
 - id: 134813256111479101215
   promotion_order: 15
@@ -3911,7 +3911,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134813256111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134813256111479101215.png"
 
 - id: 124813356111479101215
   promotion_order: 15
@@ -3955,7 +3955,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/124813356111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813356111479101215.png"
 
 - id: 123813456111479101215
   promotion_order: 15
@@ -3999,7 +3999,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/123813456111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813456111479101215.png"
 
 - id: 126713358111449101215
   promotion_order: 15
@@ -4043,7 +4043,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126713358111449101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126713358111449101215.png"
 
 - id: 126713348111459101215
   promotion_order: 15
@@ -4087,7 +4087,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126713348111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126713348111459101215.png"
 
 - id: 124713368111459101215
   promotion_order: 15
@@ -4131,7 +4131,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124713368111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124713368111459101215.png"
 
 - id: 123713468111459101215
   promotion_order: 15
@@ -4175,7 +4175,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/123713468111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713468111459101215.png"
 
 - id: 125613378111449101215
   promotion_order: 15
@@ -4219,7 +4219,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/125613378111449101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613378111449101215.png"
 
 - id: 124613378111459101215
   promotion_order: 15
@@ -4263,7 +4263,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124613378111459101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124613378111459101215.png"
 
 - id: 134513278111469101215
   promotion_order: 15
@@ -4307,7 +4307,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/134513278111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134513278111469101215.png"
 
 - id: 124513378111469101215
   promotion_order: 15
@@ -4351,7 +4351,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124513378111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513378111469101215.png"
 
 - id: 123513478111469101215
   promotion_order: 15
@@ -4395,7 +4395,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123513478111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513478111469101215.png"
 
 - id: 123413578111469101215
   promotion_order: 15
@@ -4439,7 +4439,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123413578111469101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413578111469101215.png"
 
 - id: 125613348111479101215
   promotion_order: 15
@@ -4483,7 +4483,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125613348111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613348111479101215.png"
 
 - id: 134613258111479101215
   promotion_order: 15
@@ -4512,7 +4512,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134613258111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134613258111479101215.png"
 
 - id: 124613358111479101215
   promotion_order: 15
@@ -4556,7 +4556,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124613358111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124613358111479101215.png"
 
 - id: 123613458111479101215
   promotion_order: 15
@@ -4600,7 +4600,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123613458111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613458111479101215.png"
 
 - id: 134513268111479101215
   promotion_order: 15
@@ -4644,7 +4644,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/134513268111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134513268111479101215.png"
 
 - id: 124513368111479101215
   promotion_order: 15
@@ -4673,7 +4673,7 @@
     ```
   crossing: 0
   web:
-    src: "/assets/web_pics/septic_webs/124513368111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513368111479101215.png"
 
 - id: 123413568111479101215
   promotion_order: 15
@@ -4717,7 +4717,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123413568111479101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413568111479101215.png"
 
 - id: 125713346111489101215
   promotion_order: 15
@@ -4761,7 +4761,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125713346111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125713346111489101215.png"
 
 - id: 124713356111489101215
   promotion_order: 15
@@ -4805,7 +4805,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/124713356111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124713356111489101215.png"
 
 - id: 123713456111489101215
   promotion_order: 15
@@ -4849,7 +4849,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/123713456111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713456111489101215.png"
 
 - id: 125613347111489101215
   promotion_order: 15
@@ -4893,7 +4893,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125613347111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613347111489101215.png"
 
 - id: 123613457111489101215
   promotion_order: 15
@@ -4937,7 +4937,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123613457111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613457111489101215.png"
 
 - id: 134513267111489101215
   promotion_order: 15
@@ -4966,7 +4966,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/134513267111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134513267111489101215.png"
 
 - id: 124513367111489101215
   promotion_order: 15
@@ -5010,7 +5010,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124513367111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513367111489101215.png"
 
 - id: 123513467111489101215
   promotion_order: 15
@@ -5054,7 +5054,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123513467111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513467111489101215.png"
 
 - id: 123413567111489101215
   promotion_order: 15
@@ -5098,7 +5098,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123413567111489101215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413567111489101215.png"
 
 - id: 126913358101447111215
   promotion_order: 15
@@ -5127,7 +5127,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/126913358101447111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126913358101447111215.png"
 
 - id: 126913348101457111215
   promotion_order: 15
@@ -5171,7 +5171,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/126913348101457111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126913348101457111215.png"
 
 - id: 124913368101457111215
   promotion_order: 15
@@ -5200,7 +5200,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/124913368101457111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124913368101457111215.png"
 
 - id: 125913348101467111215
   promotion_order: 15
@@ -5244,7 +5244,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/125913348101467111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125913348101467111215.png"
 
 - id: 123913458101467111215
   promotion_order: 15
@@ -5273,7 +5273,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123913458101467111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123913458101467111215.png"
 
 - id: 127813349101456111215
   promotion_order: 15
@@ -5302,7 +5302,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/127813349101456111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127813349101456111215.png"
 
 - id: 126813349101457111215
   promotion_order: 15
@@ -5331,7 +5331,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/126813349101457111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126813349101457111215.png"
 
 - id: 124813369101457111215
   promotion_order: 15
@@ -5375,7 +5375,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124813369101457111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813369101457111215.png"
 
 - id: 125813349101467111215
   promotion_order: 15
@@ -5419,7 +5419,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125813349101467111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125813349101467111215.png"
 
 - id: 123813459101467111215
   promotion_order: 15
@@ -5463,7 +5463,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123813459101467111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813459101467111215.png"
 
 - id: 124713369101458111215
   promotion_order: 15
@@ -5507,7 +5507,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124713369101458111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124713369101458111215.png"
 
 - id: 123713469101458111215
   promotion_order: 15
@@ -5536,7 +5536,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123713469101458111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713469101458111215.png"
 
 - id: 125713349101468111215
   promotion_order: 15
@@ -5565,7 +5565,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125713349101468111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125713349101468111215.png"
 
 - id: 123713459101468111215
   promotion_order: 15
@@ -5609,7 +5609,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123713459101468111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713459101468111215.png"
 
 - id: 124513379101468111215
   promotion_order: 15
@@ -5653,7 +5653,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124513379101468111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513379101468111215.png"
 
 - id: 123513479101468111215
   promotion_order: 15
@@ -5697,7 +5697,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123513479101468111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513479101468111215.png"
 
 - id: 125613349101478111215
   promotion_order: 15
@@ -5726,7 +5726,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/125613349101478111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125613349101478111215.png"
 
 - id: 124613359101478111215
   promotion_order: 15
@@ -5770,7 +5770,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124613359101478111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124613359101478111215.png"
 
 - id: 123613459101478111215
   promotion_order: 15
@@ -5814,7 +5814,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123613459101478111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613459101478111215.png"
 
 - id: 124513369101478111215
   promotion_order: 15
@@ -5858,7 +5858,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124513369101478111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513369101478111215.png"
 
 - id: 123413569101478111215
   promotion_order: 15
@@ -5902,7 +5902,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123413569101478111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413569101478111215.png"
 
 - id: 124813367101459111215
   promotion_order: 15
@@ -5931,7 +5931,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124813367101459111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813367101459111215.png"
 
 - id: 123813467101459111215
   promotion_order: 15
@@ -5975,7 +5975,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123813467101459111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813467101459111215.png"
 
 - id: 123813457101469111215
   promotion_order: 15
@@ -6019,7 +6019,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123813457101469111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813457101469111215.png"
 
 - id: 124813356101479111215
   promotion_order: 15
@@ -6063,7 +6063,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124813356101479111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124813356101479111215.png"
 
 - id: 123813456101479111215
   promotion_order: 15
@@ -6107,7 +6107,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123813456101479111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813456101479111215.png"
 
 - id: 124513378101469111215
   promotion_order: 15
@@ -6151,7 +6151,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/124513378101469111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513378101469111215.png"
 
 - id: 123513478101469111215
   promotion_order: 15
@@ -6195,7 +6195,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123513478101469111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513478101469111215.png"
 
 - id: 123413578101469111215
   promotion_order: 15
@@ -6224,7 +6224,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123413578101469111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413578101469111215.png"
 
 - id: 124613358101479111215
   promotion_order: 15
@@ -6253,7 +6253,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124613358101479111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124613358101479111215.png"
 
 - id: 123613458101479111215
   promotion_order: 15
@@ -6297,7 +6297,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123613458101479111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613458101479111215.png"
 
 - id: 123413568101479111215
   promotion_order: 15
@@ -6341,7 +6341,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123413568101479111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413568101479111215.png"
 
 - id: 123713456101489111215
   promotion_order: 15
@@ -6385,7 +6385,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/123713456101489111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713456101489111215.png"
 
 - id: 124513367101489111215
   promotion_order: 15
@@ -6414,7 +6414,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124513367101489111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124513367101489111215.png"
 
 - id: 123513467101489111215
   promotion_order: 15
@@ -6458,7 +6458,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123513467101489111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513467101489111215.png"
 
 - id: 123413567101489111215
   promotion_order: 15
@@ -6502,7 +6502,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123413567101489111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413567101489111215.png"
 
 - id: 123813467914510111215
   promotion_order: 5
@@ -6521,7 +6521,7 @@
     ```
   crossing: 1
   web:
-    src: "/assets/web_pics/septic_webs/123813467914510111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123813467914510111215.png"
 
 - id: 123713458914610111215
   promotion_order: 15
@@ -6550,7 +6550,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123713458914610111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123713458914610111215.png"
 
 - id: 123513478914610111215
   promotion_order: 15
@@ -6594,7 +6594,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123513478914610111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513478914610111215.png"
 
 - id: 123413578914610111215
   promotion_order: 15
@@ -6623,7 +6623,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123413578914610111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413578914610111215.png"
 
 - id: 123613458914710111215
   promotion_order: 15
@@ -6652,7 +6652,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123613458914710111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123613458914710111215.png"
 
 - id: 123413568914710111215
   promotion_order: 15
@@ -6696,7 +6696,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123413568914710111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413568914710111215.png"
 
 - id: 123513467914810111215
   promotion_order: 15
@@ -6725,7 +6725,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123513467914810111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123513467914810111215.png"
 
 - id: 123413567914810111215
   promotion_order: 15
@@ -6769,7 +6769,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/123413567914810111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413567914810111215.png"
 
 - id: 123413567814910111215
   promotion_order: 15
@@ -6798,7 +6798,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/123413567814910111215.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123413567814910111215.png"
 
 - id: 136101225811144791315
   promotion_order: 15
@@ -6827,7 +6827,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/136101225811144791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136101225811144791315.png"
 
 - id: 126101234811145791315
   promotion_order: 15
@@ -6871,7 +6871,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/126101234811145791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126101234811145791315.png"
 
 - id: 134101226811145791315
   promotion_order: 15
@@ -6915,7 +6915,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134101226811145791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134101226811145791315.png"
 
 - id: 124101236811145791315
   promotion_order: 15
@@ -6944,7 +6944,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/124101236811145791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101236811145791315.png"
 
 - id: 125101234811146791315
   promotion_order: 15
@@ -6988,7 +6988,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/125101234811146791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125101234811146791315.png"
 
 - id: 123101245811146791315
   promotion_order: 15
@@ -7032,7 +7032,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123101245811146791315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101245811146791315.png"
 
 - id: 124101236711145891315
   promotion_order: 15
@@ -7076,7 +7076,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/124101236711145891315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124101236711145891315.png"
 
 - id: 123101245711146891315
   promotion_order: 15
@@ -7120,7 +7120,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123101245711146891315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101245711146891315.png"
 
 - id: 123101245611147891315
   promotion_order: 15
@@ -7149,7 +7149,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123101245611147891315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123101245611147891315.png"
 
 - id: 127912348111456101315
   promotion_order: 15
@@ -7178,7 +7178,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/127912348111456101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/127912348111456101315.png"
 
 - id: 136912258111447101315
   promotion_order: 15
@@ -7207,7 +7207,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/136912258111447101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136912258111447101315.png"
 
 - id: 126912348111457101315
   promotion_order: 15
@@ -7251,7 +7251,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/126912348111457101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126912348111457101315.png"
 
 - id: 134912268111457101315
   promotion_order: 15
@@ -7295,7 +7295,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/134912268111457101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134912268111457101315.png"
 
 - id: 135912248111467101315
   promotion_order: 15
@@ -7339,7 +7339,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/135912248111467101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135912248111467101315.png"
 
 - id: 125912348111467101315
   promotion_order: 15
@@ -7383,7 +7383,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125912348111467101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125912348111467101315.png"
 
 - id: 123912458111467101315
   promotion_order: 15
@@ -7427,7 +7427,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123912458111467101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123912458111467101315.png"
 
 - id: 135912267111448101315
   promotion_order: 15
@@ -7471,7 +7471,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/135912267111448101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135912267111448101315.png"
 
 - id: 134912267111458101315
   promotion_order: 15
@@ -7515,7 +7515,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/134912267111458101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134912267111458101315.png"
 
 - id: 124912367111458101315
   promotion_order: 15
@@ -7544,7 +7544,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/124912367111458101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124912367111458101315.png"
 
 - id: 123912457111468101315
   promotion_order: 15
@@ -7588,7 +7588,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123912457111468101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123912457111468101315.png"
 
 - id: 134912256111478101315
   promotion_order: 15
@@ -7632,7 +7632,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/134912256111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134912256111478101315.png"
 
 - id: 124912356111478101315
   promotion_order: 15
@@ -7676,7 +7676,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/124912356111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124912356111478101315.png"
 
 - id: 123912456111478101315
   promotion_order: 15
@@ -7720,7 +7720,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/123912456111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123912456111478101315.png"
 
 - id: 136712259111448101315
   promotion_order: 15
@@ -7764,7 +7764,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/136712259111448101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/136712259111448101315.png"
 
 - id: 126712349111458101315
   promotion_order: 5
@@ -7788,7 +7788,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/126712349111458101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/126712349111458101315.png"
 
 - id: 135712249111468101315
   promotion_order: 15
@@ -7832,7 +7832,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/135712249111468101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135712249111468101315.png"
 
 - id: 125712349111468101315
   promotion_order: 15
@@ -7876,7 +7876,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125712349111468101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125712349111468101315.png"
 
 - id: 123712459111468101315
   promotion_order: 15
@@ -7920,7 +7920,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123712459111468101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123712459111468101315.png"
 
 - id: 134512279111468101315
   promotion_order: 15
@@ -7964,7 +7964,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/134512279111468101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134512279111468101315.png"
 
 - id: 135612249111478101315
   promotion_order: 15
@@ -8008,7 +8008,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/135612249111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135612249111478101315.png"
 
 - id: 125612349111478101315
   promotion_order: 15
@@ -8052,7 +8052,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/125612349111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125612349111478101315.png"
 
 - id: 123612459111478101315
   promotion_order: 15
@@ -8096,7 +8096,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123612459111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123612459111478101315.png"
 
 - id: 123412569111478101315
   promotion_order: 15
@@ -8125,7 +8125,7 @@
     ```
   crossing: 2
   web:
-    src: "/assets/web_pics/septic_webs/123412569111478101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123412569111478101315.png"
 
 - id: 135812267111449101315
   promotion_order: 15
@@ -8169,7 +8169,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/135812267111449101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135812267111449101315.png"
 
 - id: 134812267111459101315
   promotion_order: 15
@@ -8213,7 +8213,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/134812267111459101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134812267111459101315.png"
 
 - id: 124812367111459101315
   promotion_order: 15
@@ -8242,7 +8242,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/124812367111459101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124812367111459101315.png"
 
 - id: 125812347111469101315
   promotion_order: 15
@@ -8286,7 +8286,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125812347111469101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125812347111469101315.png"
 
 - id: 123812457111469101315
   promotion_order: 15
@@ -8330,7 +8330,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/123812457111469101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123812457111469101315.png"
 
 - id: 124812356111479101315
   promotion_order: 15
@@ -8374,7 +8374,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/124812356111479101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124812356111479101315.png"
 
 - id: 123812456111479101315
   promotion_order: 15
@@ -8418,7 +8418,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/123812456111479101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123812456111479101315.png"
 
 - id: 134612278111459101315
   promotion_order: 15
@@ -8447,7 +8447,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/134612278111459101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134612278111459101315.png"
 
 - id: 134512278111469101315
   promotion_order: 15
@@ -8491,7 +8491,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/134512278111469101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134512278111469101315.png"
 
 - id: 123412568111479101315
   promotion_order: 15
@@ -8535,7 +8535,7 @@
     ```
   crossing: 3
   web:
-    src: "/assets/web_pics/septic_webs/123412568111479101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123412568111479101315.png"
 
 - id: 135712246111489101315
   promotion_order: 15
@@ -8564,7 +8564,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/135712246111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135712246111489101315.png"
 
 - id: 125712346111489101315
   promotion_order: 15
@@ -8593,7 +8593,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125712346111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125712346111489101315.png"
 
 - id: 134712256111489101315
   promotion_order: 15
@@ -8637,7 +8637,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/134712256111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134712256111489101315.png"
 
 - id: 124712356111489101315
   promotion_order: 15
@@ -8681,7 +8681,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/124712356111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124712356111489101315.png"
 
 - id: 123712456111489101315
   promotion_order: 15
@@ -8725,7 +8725,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/123712456111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123712456111489101315.png"
 
 - id: 123412567111489101315
   promotion_order: 15
@@ -8754,7 +8754,7 @@
     ```
   crossing: 4
   web:
-    src: "/assets/web_pics/septic_webs/123412567111489101315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123412567111489101315.png"
 
 - id: 125812349101467111315
   promotion_order: 15
@@ -8783,7 +8783,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125812349101467111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125812349101467111315.png"
 
 - id: 134712269101458111315
   promotion_order: 15
@@ -8812,7 +8812,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/134712269101458111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/134712269101458111315.png"
 
 - id: 135712249101468111315
   promotion_order: 15
@@ -8841,7 +8841,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/135712249101468111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135712249101468111315.png"
 
 - id: 125712349101468111315
   promotion_order: 15
@@ -8885,7 +8885,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/125712349101468111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125712349101468111315.png"
 
 - id: 135612249101478111315
   promotion_order: 15
@@ -8929,7 +8929,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/135612249101478111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/135612249101478111315.png"
 
 - id: 125612349101478111315
   promotion_order: 15
@@ -8973,7 +8973,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/125612349101478111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125612349101478111315.png"
 
 - id: 125673410121489111315
   promotion_order: 15
@@ -9002,7 +9002,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/125673410121489111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125673410121489111315.png"
 
 - id: 125893471214610111315
   promotion_order: 15
@@ -9046,7 +9046,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/125893471214610111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125893471214610111315.png"
 
 - id: 123894561214710111315
   promotion_order: 15
@@ -9090,7 +9090,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/123894561214710111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123894561214710111315.png"
 
 - id: 124793561214810111315
   promotion_order: 5
@@ -9109,7 +9109,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/124793561214810111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/124793561214810111315.png"
 
 - id: 123794561214810111315
   promotion_order: 15
@@ -9138,7 +9138,7 @@
     ```
   crossing: 8
   web:
-    src: "/assets/web_pics/septic_webs/123794561214810111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123794561214810111315.png"
 
 - id: 123784561214910111315
   promotion_order: 15
@@ -9167,7 +9167,7 @@
     ```
   crossing: 9
   web:
-    src: "/assets/web_pics/septic_webs/123784561214910111315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123784561214910111315.png"
 
 - id: 125811349101467121315
   promotion_order: 15
@@ -9196,7 +9196,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/125811349101467121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125811349101467121315.png"
 
 - id: 125611349101478121315
   promotion_order: 15
@@ -9240,7 +9240,7 @@
     ```
   crossing: 8
   web:
-    src: "/assets/web_pics/septic_webs/125611349101478121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125611349101478121315.png"
 
 - id: 123611459101478121315
   promotion_order: 15
@@ -9269,7 +9269,7 @@
     ```
   crossing: 6
   web:
-    src: "/assets/web_pics/septic_webs/123611459101478121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123611459101478121315.png"
 
 - id: 125811347101469121315
   promotion_order: 3
@@ -9286,7 +9286,7 @@
     ```
   crossing: 5
   web:
-    src: "/assets/web_pics/septic_webs/125811347101469121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/125811347101469121315.png"
 
 - id: 123711456101489121315
   promotion_order: 15
@@ -9315,7 +9315,7 @@
     ```
   crossing: 7
   web:
-    src: "/assets/web_pics/septic_webs/123711456101489121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123711456101489121315.png"
 
 - id: 123495678141011121315
   promotion_order: 5
@@ -9334,5 +9334,5 @@
     ```
   crossing: 10
   web:
-    src: "/assets/web_pics/septic_webs/123495678141011121315.png"
+    src: "/assets/images/supplementary/wronski/web_pics/septic_webs/123495678141011121315.png"
 
