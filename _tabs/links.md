@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Links
-icon: fas fa-paperclip
+icon: fas fa-link
 order: 5
 toc: true
 # show_meta: false

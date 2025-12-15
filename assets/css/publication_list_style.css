@@ -182,3 +182,12 @@ col.col-info{
   width: 80%;
 }
 
+
+
+/* dark mode */
+
+/* abstract cells in dark mode */
+html[data-mode="dark"] td.pub-abstract-cell{
+  color: white;
+  background-color: #717070;
+}
